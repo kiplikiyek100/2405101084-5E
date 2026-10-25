@@ -2,8 +2,8 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Gustam Nasyid Sutiansah
-- NIM: 2405101083
+- Nama: Rafli akbar bahtiyar
+- NIM: 2405101084
 - Kelas: 5E
 - Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Web / Mobile Programming
